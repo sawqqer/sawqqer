@@ -18,7 +18,7 @@ As a back-end developer, I enjoy using my obsessive attention to detail, my uneq
   
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on my own Java Spring project;
 - 🚀 I’m currently learning Data Structures and Algorithms on leetcode;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: gcom0733@gmail.com;
